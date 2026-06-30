@@ -2,12 +2,14 @@
 
 ## Overview
 
-This project presents an end-to-end Sales Analytics Dashboard developed in Power BI for ElectroHub, a multi-category retail business. The dashboard enables business stakeholders to monitor sales performance, profitability, product trends, promotional effectiveness, and geographic sales distribution through interactive visualizations and KPI tracking.
+This project presents an end-to-end Sales Analytics Dashboard developed in Power BI for ElectroHub, a multi-category retail business. The dashboard enables business stakeholders to monitor sales performance, profitability, product trends, promotional effectiveness, and geographic sales distribution through interactive visualizations and KPI tracking. It was developed as part of hands-on 
 
 The objective of the project was to transform raw transactional data into actionable business insights that support data-driven decision-making.
 
-This dashboard was developed as part of a hands-on Power BI case study within a Data Analytics Bootcamp, where we designed the data model, created DAX measures, and developed interactive reports based on defined business requirements.
 ---
+### Project Context
+
+This project was completed as part of a Data Analytics Bootcamp and served as a practical business intelligence case study. The objective was to translate business requirements into a fully functional Power BI dashboard by performing data modeling, KPI development, and interactive report design.
 
 ## Business Problem
 

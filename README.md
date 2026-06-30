@@ -171,11 +171,11 @@ Through this project, I gained practical experience in:
 
 ### Sales Trend Analysis
 
-- ![Sales_Trend](images/3_ComparisonSalesProUnits.png)
+- ![Sales_Trends](images/3_ComparisonSalesProUnits.png)
 
 ### Complete Order Profile
 
-- ![Complete_Profile](images/4_CompleteProfile.png)
+- ![Complete_Order_Profile](images/4_CompleteProfile.png)
 
 ---
 
